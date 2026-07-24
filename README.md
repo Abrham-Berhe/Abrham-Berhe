@@ -1,6 +1,6 @@
 # Hi there, I'm Abrham Berhe 👋
 
-### 🚀 Full-Stack Software Engineer & DevOps Specialist
+### 🚀 Software Engineer
 Innovative Full-Stack Software Engineer with 6+ years of technical experience specializing in building highly scalable web applications, AI-powered multilingual platforms, and cloud infrastructure.
 
 ---
