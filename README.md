@@ -188,38 +188,6 @@ Designed and developed websites for
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abrham-Berhe&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrham-Berhe&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrham-Berhe&theme=github-dark-blue"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abrham-Berhe&theme=github-compact"/>
-
-</p>
-
----
-
 # 🌍 Languages
 
 - 🇪🇹 Amharic
