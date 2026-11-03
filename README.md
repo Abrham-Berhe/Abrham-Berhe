@@ -135,12 +135,12 @@ Features
 
 Designed and developed websites for
 
-- BMT Trading PLC <a href="https://www.abrhamtech.com">
-- Facade Tech Solution PLC
-- 24/7 Construction
-- Sundaero College
-- DK Holdings
-- Abem Youth Academy
+- Facade Tech Solution PLC: https://www.facadeplc.com
+- Dagem Kennedy General Trading PLC: https://www.dkholdingcompany.com/
+- BMT Trading PLC: https://www.bmttradingplc.com
+- 24/7 Construction: https://www.24sevencon.com
+- Sundaero College: https://www.sundaero.com
+- Abem Youth Academy: https://www.abemyouthacademy.com
 
 ---
 
